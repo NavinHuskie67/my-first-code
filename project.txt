@@ -1,1 +1,2 @@
 Hello from Windows
+And I might just be getting the hang of this Git Bash thing
